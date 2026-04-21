@@ -1,5 +1,12 @@
 <html>
+<head>
+<title>CI/CD Demo</title>
+</head>
 <body>
-<h2><%= "Hello World!" %></h2>
+
+<h1>Welcome to CI/CD Pipeline Demo</h1>
+
+<a href="hello">Click Here</a>
+
 </body>
 </html>
